@@ -19,16 +19,16 @@ const Header = () => {
       <Nav className="ms-auto align-items-center">
         <ul className='mb-0'>
           <li className='nav-item active'>
-          <NavLink to="/" className='nav-link '>Home</NavLink>
+          <NavLink to="/" className='nav-link '>nome</NavLink>
           </li>
           <li className='nav-item'>
-          <NavLink to="/about" className='nav-link'>About us</NavLink>
+          <NavLink to="/about" className='nav-link'>About</NavLink>
           </li>
           <li className='nav-item'>
-          <NavLink to="/courses" className='nav-link'>Courses</NavLink>
+          <NavLink to="/courses" className='nav-link'>Course List</NavLink>
           </li>
           <li className='nav-item'>
-          <NavLink to="/blog" className='nav-link'>Blog</NavLink>
+          <NavLink to="/blog" className='nav-link'>Blog List</NavLink>
           </li>
           <li className='nav-item'>
           <NavLink to="/teacters" className='nav-link'>Teachers</NavLink>
